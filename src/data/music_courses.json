@@ -1,0 +1,155 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Beginner Guitar Lessons",
+        "slug": "beginner-guitar-lessons",
+        "description": "Learn the basics of playing guitar, from chords to strumming techniques.",
+        "price": 79,
+        "instructor": "David Jones",
+        "isFeatured": true,
+        "image": "/courses/guitar.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Piano for Beginners",
+        "slug": "piano-for-beginners",
+        "description": "Start your piano journey with this comprehensive beginner's guide.",
+        "price": 89,
+        "instructor": "Sarah Lee",
+        "isFeatured": false,
+        "image": "/courses/piano.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Advanced Vocal Training",
+        "slug": "advanced-vocal-training",
+        "description": "Improve your vocal range, tone, and breathing techniques with advanced lessons.",
+        "price": 120,
+        "instructor": "Michael Brown",
+        "isFeatured": true,
+        "image": "/courses/vocal.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Music Production with Ableton",
+        "slug": "music-production-with-ableton",
+        "description": "Master the essentials of music production using Ableton Live software.",
+        "price": 150,
+        "instructor": "Rachel Green",
+        "isFeatured": true,
+        "image": "/courses/ableton.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Jazz Guitar Mastery",
+        "slug": "jazz-guitar-mastery",
+        "description": "Explore the techniques and chords used in jazz guitar and become a proficient player.",
+        "price": 99,
+        "instructor": "Tom Harris",
+        "isFeatured": false,
+        "image": "/courses/jazz-guitar.jpg"
+      },
+      {
+        "id": 6,
+        "title": "DJing for Beginners",
+        "slug": "djing-for-beginners",
+        "description": "Learn the art of DJing, from beat matching to creating seamless transitions.",
+        "price": 110,
+        "instructor": "Chris Martin",
+        "isFeatured": true,
+        "image": "/courses/dj.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Classical Violin Lessons",
+        "slug": "classical-violin-lessons",
+        "description": "Master the classical violin with step-by-step lessons for beginners and intermediates.",
+        "price": 125,
+        "instructor": "Anna Wilson",
+        "isFeatured": false,
+        "image": "/courses/violin.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Electronic Music Composition",
+        "slug": "electronic-music-composition",
+        "description": "Create your own electronic music tracks using synths, drum machines, and DAWs.",
+        "price": 140,
+        "instructor": "Paul Anderson",
+        "isFeatured": true,
+        "image": "/courses/electronic.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Music Theory Fundamentals",
+        "slug": "music-theory-fundamentals",
+        "description": "Understand the basics of music theory, from scales to harmony and rhythm.",
+        "price": 95,
+        "instructor": "Emily Johnson",
+        "isFeatured": false,
+        "image": "/courses/music-theory.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Singing for Beginners",
+        "slug": "singing-for-beginners",
+        "description": "Develop your vocal skills with beginner-friendly singing exercises and techniques.",
+        "price": 85,
+        "instructor": "Jack Davis",
+        "isFeatured": true,
+        "image": "/courses/singing.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Drum Lessons for Beginners",
+        "slug": "drum-lessons-for-beginners",
+        "description": "Learn how to play the drums, starting with basic beats and rhythms.",
+        "price": 105,
+        "instructor": "Ethan Parker",
+        "isFeatured": false,
+        "image": "/courses/drums.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Songwriting Techniques",
+        "slug": "songwriting-techniques",
+        "description": "Learn how to write your own songs with creative techniques for lyrics and melody.",
+        "price": 130,
+        "instructor": "Sophia Adams",
+        "isFeatured": true,
+        "image": "/courses/songwriting.jpg"
+      },
+      {
+        "id": 13,
+        "title": "Music Business 101",
+        "slug": "music-business-101",
+        "description": "Understand the basics of the music industry, from publishing to marketing your music.",
+        "price": 160,
+        "instructor": "Alex White",
+        "isFeatured": false,
+        "image": "/courses/music-business.jpg"
+      },
+      {
+        "id": 14,
+        "title": "Blues Harmonica Lessons",
+        "slug": "blues-harmonica-lessons",
+        "description": "Learn to play the blues on the harmonica with techniques for bending notes and rhythm.",
+        "price": 75,
+        "instructor": "Lucas Carter",
+        "isFeatured": true,
+        "image": "/courses/harmonica.jpg"
+      },
+      {
+        "id": 15,
+        "title": "Bass Guitar for Beginners",
+        "slug": "bass-guitar-for-beginners",
+        "description": "Start playing bass guitar with this introductory course on rhythms and scales.",
+        "price": 95,
+        "instructor": "James Taylor",
+        "isFeatured": true,
+        "image": "/courses/bass-guitar.jpg"
+      }
+    ]
+  }
+  
